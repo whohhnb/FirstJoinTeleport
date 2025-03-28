@@ -1,0 +1,8 @@
+name: FirstJoinTeleport
+version: 1.0
+main: cn.whohh.firstjointp.FirstJoinTeleport
+api-version: 1.19
+folia-supported: true
+commands:
+  fjt-reload:
+    description: 重载插件配置
