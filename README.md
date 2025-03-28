@@ -2,7 +2,7 @@
 一个可以让新玩家传送至配置文件指定的坐标地点的插件
 支持 Folia
 ## 配置文件
-`
+```
 # 传送坐标配置
 spawn:
   world: world
@@ -14,4 +14,4 @@ spawn:
 
 # 是否启用传送功能
 teleport-enabled: true
-`
+```
