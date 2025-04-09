@@ -1,5 +1,5 @@
 name: FirstJoinTeleport
-version: 1.0
+version: 1.1.2
 main: cn.whohh.firstjointp.FirstJoinTeleport
 api-version: 1.19
 folia-supported: true
